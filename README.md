@@ -20,16 +20,32 @@
 ### 💻 Tech Stack & Skills
 
 **Languages:**
-- Python, C, JavaScript (learning)
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
 
 **Frameworks / Libraries:**
-- TensorFlow, PyTorch, NumPy, Pandas, Matplotlib
+<p>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+</p>
 
 **Concepts & Domains:**
 - Deep Learning, Neural Networks, CNNs, RNNs, LLMs, Generative AI (GANs, Diffusion), XAI, Transfer Learning, Reinforcement Learning
 
 **Tools:**
-- Git & GitHub, Google Colab, Jupyter, VS Code
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 **Soft Skills:**
 - Communication, Technical Writing, Community Engagement, Self-Learning
