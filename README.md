@@ -8,7 +8,7 @@
 
 ### 🌟 About Me
 
-- 🎓 Computer Science student at **IIIT Kottayam**
+- 🎓 Computer Science student at **IIIT Kalyani**
 - 🔗 Passionate about **Artificial Intelligence**, **Deep Learning**, and **Open Source**
 - 🚀 Recently completed an intensive **Deep Learning Summer School** at **IIITDM Jabalpur**
 - 🤖 Built an AI model for pneumonia detection using chest X-ray data as part of a **healthcare capstone project**
