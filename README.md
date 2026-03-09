@@ -18,7 +18,7 @@
 
 ### 📅 Recent Highlight
 
-✨ **Deep Learning Summer School @ IIITDM Jabalpur (2024)**  
+✨ **Deep Learning Summer School @ IIITDM Jabalpur (2025)**  
 Completed a 4-week intensive program on core & advanced topics in DL. Earned **"Certificate of Excellent Performance"** with a final score of **89/100**.
 
 > **Capstone:** *Transfer Learning for Pneumonia Classification in Thoracic Radiography* — Trained an AI model on chest X-ray data.
