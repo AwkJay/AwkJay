@@ -1,35 +1,31 @@
-<h1 align="center">Hi there, I'm Awnikant! 👋</h1>
+<h1 align="center">Hi, I'm Awnikant 👋</h1>
 
 <p align="center">
-  <i>Curious mind | Deep Learning Enthusiast | Open Source Explorer | Future-Ready Technologist</i>
+  <i>Python • Backend Systems • Data Pipelines • Open Source</i>
 </p>
 
 ---
 
-### 🌟 About Me
+### About
 
-- 🎓 Computer Science student at **IIIT Kalyani**
-- 🔗 Passionate about **Artificial Intelligence**, **Deep Learning**, and **Open Source**
-- 🚀 Completed the **Deep Learning Summer School** at **IIITDM Jabalpur**, focused on theory and real-world applications
-- 🤖 Built an AI model to detect pneumonia using chest X-ray data (will be published soon)
-- 💡 Recognized in the **NASA** and **Cisco** Halls of Fame for Web Security Sesearch
+I'm a Computer Science student at **IIIT Kalyani** interested in building backend systems and working with structured data.
 
----
+I spend most of my time understanding how real-world systems are designed — especially around:
+- data pipelines  
+- APIs and backend services  
+- scientific and scenario-based datasets  
 
-### 📅 Recent Highlight
-
-✨ **Deep Learning Summer School @ IIITDM Jabalpur (2025)**  
-Completed a 4-week intensive program on core & advanced topics in DL. Earned **"Certificate of Excellent Performance"** with a final score of **89/100**.
-
-> **Capstone:** *Transfer Learning for Pneumonia Classification in Thoracic Radiography* — Trained an AI model on chest X-ray data.
+I’ve also been exploring how models and data-driven systems are used in areas like **energy, economics, and sustainability**, and how to make those workflows more reproducible and easier to work with.
 
 ---
 
-### 🚀 What I'm Working On
+### What I'm Focused On
 
-- Structuring and publishing **my DL assignments and solutions** on GitHub
-- Improving my foundations in **Transformers, LLMs, and XAI**
-- Exploring first contributions to **Open Source projects** (especially GSSoC)
+- Designing **clean data pipelines and transformations**
+- Building and understanding **backend systems (FastAPI, services, APIs)**
+- Working with **structured datasets (time-series, multi-dimensional data)**
+- Improving **data validation, reproducibility, and system reliability**
+- Contributing to **open-source systems with real-world use cases**
 
 ---
 
