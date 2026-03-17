@@ -28,6 +28,21 @@ I’ve also been exploring how models and data-driven systems are used in areas 
 - Contributing to **open-source systems with real-world use cases**
 
 ---
+### Open Source
+
+Currently exploring and contributing to projects related to:
+- backend systems  
+- data infrastructure  
+- scientific / modeling tools  
+
+---
+
+### Background
+
+- Deep Learning Summer School — IIITDM Jabalpur  
+- Security research (Bugcrowd) — recognized by NASA & Cisco  
+
+---
 
 ### 🚀 Tech Stack
 
