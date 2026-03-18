@@ -10,7 +10,7 @@
 
 I'm a Computer Science student at **IIIT Kalyani** interested in building backend systems and working with structured data.
 
-I spend most of my time understanding how real-world systems are designed — especially around:
+I spend most of my time understanding how real-world systems are designed, especially around:
 - data pipelines  
 - APIs and backend services  
 - scientific and scenario-based datasets  
